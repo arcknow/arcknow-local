@@ -8,3 +8,6 @@ This repo includes code for
 - Offline testing of the above functions in ipython notebook
 - Implementation of streamlit from local envrionment
 - Documentation of how to deploy the streamlit online 
+
+## Entry Point
+Please see test.ipynb
